@@ -14,7 +14,7 @@ Pull and run the docker image:
     $ docker pull osul/fcrepo
     $ docker run -p 8080:8080 osul/fcrepo
 
-Fedora will now be available at [https://localhost:8080/fcrepo](https://localhost:8080/fcrepo)
+Fedora will now be available at [http://localhost:8080/fcrepo](http://localhost:8080/fcrepo)
 
 Notes
 -----
