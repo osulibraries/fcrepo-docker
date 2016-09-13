@@ -1,4 +1,4 @@
-# osul/fcrepo:latest
+# osul/fcrepo:4.6.0
 FROM tomcat:7-jre8
 MAINTAINER Corey Hinshaw <hinshaw.25@osu.edu>
 
